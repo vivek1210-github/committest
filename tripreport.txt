@@ -1,2 +1,3 @@
 tripreport
 add filter box
+add filter for default
